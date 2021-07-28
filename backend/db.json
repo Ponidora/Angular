@@ -1,0 +1,19 @@
+{
+    "produto": [
+        {
+            "id": 1,
+            "nome": "Pepsi",
+            "preço": 8.00
+        },
+        {
+            "id": 2,
+            "nome": "Azeite",
+            "preço": 7.00
+        },
+        {
+            "id": 3,
+            "nome": "Sabonete",
+            "preço": 3.50
+        }
+    ]
+}
